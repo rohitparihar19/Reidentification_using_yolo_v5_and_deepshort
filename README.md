@@ -1,4 +1,4 @@
-# Reidentification_using_yolo_v5_and_deepshort
+# Reidentification_using_yolo_v5/V4_and_deepshort
 
 # Person re-identification(re-id):
 
